@@ -1,0 +1,31 @@
+{
+  "name": "MoskinatorBot-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/Moskinator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoskinatorDevs/MoskinatorBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoskinatorDevs/MoskinatorBot/issues"
+  },
+  "homepage": "https://github.com/MoskinatorDevs/MoskinatorBot#readme",
+  "dependencies": {
+    "alexa-bot-api": "^0.1.4",
+    "axios": "^0.21.0",
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11",
+    "nodemon": "^2.0.4",
+    "parse-ms": "^2.1.0",
+    "prettier": "^2.1.2",
+    "quick.db": "^7.1.2"
+  }
+}
